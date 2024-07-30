@@ -1,4 +1,3 @@
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tobi Akinkuotu 
 =======================================================================================================================================
 
@@ -43,15 +42,7 @@ Socials
  <a href="https://www.github.com/TobiAkinkuotu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/oluwatobiloba-akinkuotu-972ba231b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   </p>
-  
- <b>My GitHub Stats</b>
- </br>
- <a href="http://www.github.com/TobiAkinkuotu"><img src="https://github-readme-stats.vercel.app/api?username=brightakin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="brightakin's GitHub stats" /></a><a
- href="http://www.github.com/TobiAkinkuotu"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=TobiAkinkuotu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-href="http://www.github.com/TobiAkinkuotu"><img src="https://activity-graph.herokuapp.com/graph?username=brightakin&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/brightakin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brightakin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  </p>
-  
+   
  <b>My GitHub Stats</b>
  </br>
  <a href="http://www.github.com/TobiAkinkuotu"><img src="https://github-readme-stats.vercel.app/api?username=TobiAkinkuotu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TobiAkinkuotu's GitHub stats" /></a><a
@@ -59,10 +50,3 @@ href="http://www.github.com/TobiAkinkuotu"><img src="https://activity-graph.hero
 src="https://github-readme-streak-stats.herokuapp.com/?user=TobiAkinkuotu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
 href="http://www.github.com/TobiAkinkuotu"><img src="https://activity-graph.herokuapp.com/graph?username=TobiAkinkuotu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/TobiAkinkuotu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiAkinkuotu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   </p>
-  
- <b>My GitHub Stats</b>
- </br>
- <a href="http://www.github.com/TobiAkinkuotu"><img src="https://github-readme-stats.vercel.app/api?username=TobiAkinkuotu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TobiAkinkuotu's GitHub stats" /></a><a
- href="http://www.github.com/TobiAkinkuotu"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=TobiAkinkuotu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-href="http://www.github.com/TobiAkinkuotu"><img src="https://activity-graph.herokuapp.com/graph?username=TobiAkinkuotu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/TobiAkinkuotu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiAkinkuotu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
